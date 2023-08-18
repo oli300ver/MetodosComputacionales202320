@@ -1,6 +1,6 @@
-# Métodos Computacionales - 2023-20
+#  Métodos Computacionales - 2023-20
 
-### Entornos de programación académica en línea:
+###  Entornos de programación académica en línea:
 * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asegura4488/MetodosComputacionales202320/main)
 * Azure cloud service de [Uniandes ![Uniandes](imagenes/andes_32px.png)](http://facciencias.az.uniandes.edu.co/jhub/)
 
